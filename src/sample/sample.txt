@@ -4,3 +4,4 @@ git pull
 git clone
 git remote
 ADDED REMOTE CHANGES
+ADDED LOCAL CHANGES
